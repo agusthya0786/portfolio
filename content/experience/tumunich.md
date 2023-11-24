@@ -1,20 +1,16 @@
 ---
-title: "Remote Research Intern"
-description: "Technical University of Munich (Germany)"
-dateString: Aug 2020 - Oct 2020
+title: "Skill India Intern"
+description: "Elite Techno Groups (India)"
+dateString: Aug 2021 - Sept 2021
 draft: false
 tags: []
 showToc: false
 weight: 303
 --- 
-### 🔗 [GitHub](https://github.com/arkalim/pytorch-CycleGAN-and-pix2pix/tree/3D_Seg)
+### 🔗 [GitHub](https://github.com/ShisheerKaushik24/Elite-Techno-Internship)
 
 ## Description
-**Guide:** **Mohammad Farid Azampour** (Visiting Researcher at Chair for Computer Aided Medical Procedures, TU Munich)
+**Guides:** [Ashish Jangra](https://www.elitetechnogroups.com/webinar/technical-workshop-team-ethan-racing.php/) and [Mayank Arora](https://www.linkedin.com/in/mayank-arora-etg/)
 
-- Rearchitected Pix2Pix, a CGAN architecture, to generate Ultrasound (US) scans from MRI scans
-- Addressed the challenge of structural dissimilarity between MRI and US scans due to data collection methods
-- Developed a custom loss function combining CGAN loss and Dice Loss for improved image segmentation
-- Implemented the loss function to encourage the generator to eliminate structural deformation in the generated US scans
-- Leveraged remote access to TU-Munich's cluster computers for fast model training
-- Utilized TU-Munich's Discourse forum for collaboration which drove the project to fruition
+- During one month of the internship, I implemented an `Inventory Management system` by transmitting structured data network in JSON format.
+- This system was used to keep track of products, perform sales analysis and generate a statement consisting of the purchase history of the company. Access the project [page](https://github.com/ShisheerKaushik24/Elite-Techno-Internship).
