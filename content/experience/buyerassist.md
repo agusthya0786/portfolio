@@ -1,6 +1,7 @@
 ---
 title: "SparQ Summer Intern"
-description: "[QNu Labs Pvt.Ltd (India)(https://www.qnulabs.com/)]"
+description: "QNu Labs Pvt.Ltd (India)"
+url: "https://www.qnulabs.com/"
 dateString: May 2023 - July 2023
 draft: false
 tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "AWS", "OAuth2.0"]
