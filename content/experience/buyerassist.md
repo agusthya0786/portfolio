@@ -1,7 +1,7 @@
 ---
-title: "Backend Engineer"
-description: "BuyerAssist (India)"
-dateString: June 2021 - Aug 2022
+title: "SparQ Summer Intern"
+description: "QNu Labs Pvt.Ltd (India)"
+dateString: May 2023 - July 2023
 draft: false
 tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "AWS", "OAuth2.0"]
 showToc: false
@@ -9,11 +9,7 @@ weight: 302
 --- 
 
 ### Description
+**Mentor:** [Ayan Chattopadhyay](https://in.linkedin.com/in/ayan-chattopadhyay-8360095?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
-- Developed an event-driven serverless integration framework using AWS Lambda and EventBridge, facilitating seamless synchronization of customer data between Salesforce and BuyerAssist.
-- Designed and implemented a configuration-driven framework to enhance the pattern-matching capability of AWS EventBridge, preventing over 1000 false invocations of AWS Lambda functions every day.
-- Implemented a system to track asynchronous data transfer jobs through AWS AppFlow, which reduced the issue tracking time to under 5 mins.
-- Developed a Salesforce app using SFDX to provide clients a customized experience within their Salesforce dashboard.
-- Developed a Slack bot that sent interactive daily notifications to customers, enabling them to take direct actions from Slack. This streamlined operations and boosted sales by over 50%.
-
-![](/experience/buyerassist/img1.jpeg#center)
+- I will be collaborating closely with a team of seasoned professionals on a project entitled `Browser-Based Quantum-Safe VPN PQC Plugin` as part of the SparQ Summer Internship.
+- Access the official Internship announcement [page](https://sites.google.com/view/shashankg687/sparq-summer-internship) and Acceptance [mail](https://drive.google.com/file/d/1kt-ZQ1BsctoOeG-WyE_0z9kz7ZQKfw2-/view?usp=sharing)
