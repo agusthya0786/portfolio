@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.org"
+baseURL: "https://shisheer-kaushik.netlify.app/"
 languageCode: en-us
-title: Abdur Rahman
+title: Shisheer S Kaushik
 theme: PaperMod
 
 menu:
@@ -48,9 +48,9 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋! I'm Abdur, an ambitious DevOps Intern at [**16Bit.ai**](https://www.16bit.ai), an innovative healthcare startup in Toronto. Currently pursuing my [**MSc in Applied Computing**](https://mscac.utoronto.ca/) at the esteemed University of Toronto, I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have also obtained AWS associate-level certifications as a Solutions Architect and Developer, further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers. During my leisure hours, I channel my creativity into crafting engaging YouTube 🎬 videos, where I share my journey as an international student in Canada 🇨🇦.
-    imageUrl: "home/formal-pic-small.jpeg"
+    title: "Shisheer S Kaushik"
+    subtitle: Hi 👋! I'm ---
+Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in Quantum Technologies from [India Institute of Technology, Jodhpur](https://iitj.ac.in/). He got to know about [Quantum computing](https://www.ibm.com/topics/quantum-computing) just about two years ago, but he catches up fast. Over the past 26 months, he has actively participated in numerous conferences, workshops, and hackathons and is an engaged member of the Qworld Association community, where he has mentored several events. Moreover, he has reasonable experience using frameworks like 'Qiskit', 'Cirq' SDK's for programming. He is also the Qiskit Advocate. Apart from quantum computing, he is also an [IoT & Wireless Sensor Network](https://www.sensor-works.com/wireless-sensors-iot/) enthusiast who dabbles in Travel Photography as a side hobby.
     imageWidth: 220
     imageHeight: 220
     # buttons:
