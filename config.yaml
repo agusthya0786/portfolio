@@ -49,8 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Shisheer S Kaushik"
-    subtitle: Hi 👋! I'm ---
-Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in Quantum Technologies from [India Institute of Technology, Jodhpur](https://iitj.ac.in/). He got to know about [Quantum computing](https://www.ibm.com/topics/quantum-computing) just about two years ago, but he catches up fast. Over the past 26 months, he has actively participated in numerous conferences, workshops, and hackathons and is an engaged member of the Qworld Association community, where he has mentored several events. Moreover, he has reasonable experience using frameworks like 'Qiskit', 'Cirq' SDK's for programming. He is also the Qiskit Advocate. Apart from quantum computing, he is also an [IoT & Wireless Sensor Network](https://www.sensor-works.com/wireless-sensors-iot/) enthusiast who dabbles in Travel Photography as a side hobby.
+    subtitle: Hi 👋! Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in Quantum Technologies from [India Institute of Technology, Jodhpur](https://iitj.ac.in/). He got to know about [Quantum computing](https://www.ibm.com/topics/quantum-computing) just about two years ago, but he catches up fast. Over the past 26 months, he has actively participated in numerous conferences, workshops, and hackathons and is an engaged member of the Qworld Association community, where he has mentored several events. Moreover, he has reasonable experience using frameworks like 'Qiskit', 'Cirq' SDK's for programming. He is also the Qiskit Advocate. Apart from quantum computing, he is also an [IoT & Wireless Sensor Network](https://www.sensor-works.com/wireless-sensors-iot/) enthusiast who dabbles in Travel Photography as a side hobby.
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -67,15 +66,15 @@ Shisheer S Kaushik is currently pursuing a post-graduate degree specializing in 
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:shisheerskaushik@aol.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/abdurrahmankalim"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/ShisheerKaushik24"
+    - name: "twitter"
+      url: "https://twitter.com/Agusthya1"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1U6Gg2RnHSCthtWLbZJBlAEI3V1WGjZty/view"
+      url: "https://raw.githubusercontent.com/ShisheerKaushik24/Certificate-Acheived/master/Valuable-Certi/Resume.pdf"
 
   # text search
   fuseOpts:
