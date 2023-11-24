@@ -1,21 +1,20 @@
 ---
-title: "Computer Vision Intern"
-description: "IIT Madras (India)"
-dateString: May 2019 - July 2019
+title: "Junior Researcher"
+description: "Qkrishi Quantum Pvt.Ltd (India)"
+dateString: Feb 2023 - Apr 2023
 draft: false
 tags: []
 showToc: false
 weight: 305
 --- 
-### 🔗 [GitHub](https://github.com/arkalim/Tensorflow/tree/master/VLocNet)
+### 🔗 [GitHub](https://github.com/ShisheerKaushik24/Junior-Researcher-Project-1)
 
 ## Description
-**Guide:** **Prof. Dr. Pratyush Kumar** (Assistant Professor, Dept. of Computer Science, IIT Madras)
+**Guide:** [V.Raghavendra](https://www.linkedin.com/in/raghavendra-v-b011272a/?originalSubdomain=in)
 
-- Implemented a Convolutional Neural Network (CNN) for 6-DoF Global Pose Regression and Odometry Estimation
-- Developed a deep learning model in TensorFlow to estimate the camera pose from consecutive monocular images
-- The model demonstrated superior performance compared to traditional feature-based visual localization algorithms, especially in texture-less regions
-- The neural network was later utilized for robot localization in GPS-denied environments
+- Working on an ongoing project as a part of my work as a junior researcher at Qkrishi, Gurgaon, India.
+- The objective is to develop a novel optimized quantum algorithm using several methods, like the phase estimation technique to solve the `traveling salesman problem and vehicle routing problem` and benchmark the respective routing algorithm on various available QPUs by testing on several optimization algorithms to observe and compare the best optimal minimal cost.
+- Access the [project's](https://github.com/ShisheerKaushik24/Junior-Researcher-Project-) page and the experience [letter](https://drive.google.com/file/d/1_QP7Wn-4F7b5meSQ3Kyk12e2ZT9H_Duw/view?usp=drive_link).
 
 ![](/experience/iit-madras/img1.jpeg)
 ![](/experience/iit-madras/img2.jpeg)
