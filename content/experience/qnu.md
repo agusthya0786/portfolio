@@ -8,7 +8,7 @@ showToc: false
 weight: 302
 --- 
 
-### Description
+## Description
 **Mentor:** [Ayan Chattopadhyay](https://in.linkedin.com/in/ayan-chattopadhyay-8360095?original_referer=https%3A%2F%2Fwww.google.com%2F)
 
 - I will be collaborating closely with a team of seasoned professionals on a project entitled `Browser-Based Quantum-Safe VPN PQC Plugin` as part of the SparQ Summer Internship.
