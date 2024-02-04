@@ -69,17 +69,14 @@ As it is seen in the graphs, the simulation done on `FakeWashingtonV2()` quantum
 
 ### Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BB84 protocol
 
-![my notes](/projects/undergraduate-thesis/sim-bb92.png)
 ![my notes](/projects/undergraduate-thesis/h-bb84.png)
 
 ### Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BBM92 protocol
 
-![my notes](/projects/undergraduate-thesis/sim-bb92.png)
 ![my notes](/projects/undergraduate-thesis/h-bb92.png)
  
 ### Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for Ekert91 protocol
 
-![my notes](/projects/undergraduate-thesis/sim-bb92.png)
 ![my notes](/projects/undergraduate-thesis/h-e91.png)
 
 Contributor:
