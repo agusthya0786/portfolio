@@ -60,6 +60,12 @@ Here are some steps to interactively play with our application:
 7. The Simulator result obtained after decoded.
 
 ![my notes](/projects/undergradute-thesis/sim-bb92.png)
+### Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BBM92 protocol
+![my notes](/static/projects/undergraduate-thesis/h-bb92.png)
+ 
+### Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for Ekert91 protocol
+![my notes](/static/projects/undergraduate-thesis/h-e91.png)
+
 
    The above graph selected is the output generated from the Quantum Simulator `qasm_simulator`.
   
