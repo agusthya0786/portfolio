@@ -1,25 +1,13 @@
 ---
 title: Quantum Horizons-Exploring Global University Degree Programs in Quantum Technology
-summary: As the field of Quantum Computing continues to grow, the need for University and advanced educated individuals to make up the Quantum Computing workforce has grown as well. Below is a list of Master’s Degree Programs in the Quantum Computing Field offered by Universities around the world, featuring programs that range from onsite to online, and from one to two years in duration.
+description: As the field of Quantum Computing continues to grow, the need for University and advanced educated individuals to make up the Quantum Computing workforce has grown as well. Below is a list of Master’s Degree Programs in the Quantum Computing Field offered by Universities around the world, featuring programs that range from onsite to online, and from one to two years in duration.
+dateString: August 2020
 draft: false
-featured: true
-external_link: 
-#  - name: Open Source
-#    icon_pack: fas
-#    icon: heart
-  
-# Featured image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
-# alt_text: An optional description of the image for screen readers.
-image:
-  placement: 1
-  caption: ""
-  focal_point: "Center"
-  preview_only: true
-#  alt_text: An optional description of the image for screen readers.
+tags: ["Quantum", "Education"]
+weight: 105
+cover:
+    image: "blog/master_quantum/cover.jpg"
+    # caption: "Photo by Lenin Estrada on Unsplash"
 ---
 <!DOCTYPE html>
 <div align="center">
@@ -31,23 +19,8 @@ image:
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  
-# Contents
-<nav>
-  <ul>
-	  <li><a href="#section1">United Kingdom</a></li>
-	  <li><a href="#section2">United States of America</a></li>
-    <li><a href="#section3">Germany</a></li>
-    <li><a href="#section4">Canada</a></li>
-    <li><a href="#section5">Australia</a></li>
-    <li><a href="#section6">European Union</a></li>
-    <li><a href="#section7">Asian Continent</a></li>
-  </ul>
-</nav>
 
-<section id="section1">
-  <h2>United Kingdom</h2>
-  <p>
+## United Kingdom
 
 ### University College London (UCL)
 UCL offers an [MSc. degree in Quantum Technologies](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/quantum-technologies-msc), with a robust curriculum that features compulsory modules in Advanced Quantum Theory, Quantum Computation and Communication, Quantum Technologies, and an Individual Research Project, among other non-compulsory optional modules. Optional modules include Astronomical Spectroscopy, Materials and Energy Materials, Physics of the Earth, Physics of Advanced Materials, Theoretical Condensed Matter, Advanced Topics in Statistical Mechanics, and more.
@@ -151,12 +124,7 @@ Work on theoretical physics is concentrated in four main areas: complex systems,
 
 Duration: 12 months full-time
 
-  </p>
-</section>
-
-<section id="section2">
-  <h2>United States of America</h2>
-  <p>
+## United States of America
 
 ### University of California, Los Angeles
 The [UCLA Master of Quantum engineering](https://qst.ucla.edu/) program is a full-time course of study that includes an internship, a capstone presentation on the internship, and nine courses totaling 36 units. Courses in this program include Introduction to Quantum Computing, Quantum Programming, Lab Modules, Introduction to Quantum Information, Quantum Algorithms, Theory of Quantum Devices and other elective courses. The program will be undertaken in California, USA, with tuition set at $51,174.19.
@@ -254,12 +222,7 @@ This [Certificate in Quantum Technology and Quantum Information](https://drexel.
 
 For information on tuition and more on the program, intending applicants can contact the department directly via the course website.
 
- </p>
-</section>
-
-<section id="section3">
-  <h2>Germany</h2>
-  <p>
+## Germany
 
 ### Doggendorf Institute of Technology
 DIT offers you a [Master's degree in Quantum Computing](https://www.th-deg.de/qc-m-en#:~:text=boost%20your%20understanding%20of%20the%20universe&text=As%20one%20of%20the%20first,computing%20in%20this%20degree%20programme.). Building on your knowledge in computer science, physics or engineering, you will learn about the modern technology of quantum computing in this degree programme. no matter in which economic or scientific field, it is all about solving complex problems. 
@@ -320,21 +283,11 @@ During the second year, students have the opportunity to carry out research at t
 
 Duration: 4 semesters (2 years)
 
-  </p>
-</section>
-
-<section  id="section4">
-  <h2>Canada</h2>
-  <p>
+## Canada
 
 Coming Soon...........
 
-  </p>
-</section>
-
-<section  id="section5">
-  <h2>Australia</h2>
-  <p>
+## Australia
 
 ### RMIT University
 The [Master of Science (Applied Physics)](https://www.rmit.edu.au/study-with-us/levels-of-study/research-programs/masters-by-research/master-of-science-applied-physics-mr230) gives you opportunities to develop specialist knowledge and honed research skills in your chosen area among the various project areas. This master degree may be undertaken in a project or thesis mode. You will also have access to our modern semiconductor clean rooms. Many of our research activities are conducted within the Theoretical Chemical and Quantum Physics Research Group. This masters degree will provide you with a foundation for further studies into a PhD and employment in senior leadership and management research-based positions in a variety of government, non-government and corporate organisations.
@@ -362,26 +315,13 @@ This [Bachelor of Engineering (Honours) (Quantum Engineering)](https://www.unsw.
 
 Duration: 4 calender years
 
-  </p>
-</section>
-
-<section  id="section6">
-  <h2>European Union</h2>
-  <p>
+## European Union
     
 Coming Soon...........
     
-  </p>
-</section>
-
-<section  id="section7">
-  <h2>Asian Continent</h2>
-  <p>
+## Asian Continent
 
 Coming Soon...........
-
-  </p>
-</section>
 
 <a id="scroll-to-top" href="#top">&#8593;</a>
 
