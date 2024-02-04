@@ -66,29 +66,21 @@ Here are some steps to interactively play with our application:
 ## Future Scopes and Improvements
 As it is seen in the graphs, the simulation done on `FakeWashingtonV2()` quantum computer is comparatively different from the one done on simulation. It’s because Quantum computers are exceedingly difficult to engineer, build and program. As a result, they are crippled by errors in the form of noise, faults and loss of quantum coherence, which is crucial to their operation and yet falls apart before any nontrivial program has a chance to run to completion. 
 
-<table align="center">
-  <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BB84 protocol</caption>
-  <tr>
-    <td>![my notes](/projects/undergraduate-thesis/sim-bb92.png)</td>
-    <td>![my notes](/projects/undergraduate-thesis/h-bb84.png)</td>
-  </tr>
-</table>
 
-<table align="center">
-  <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BBM92 protocol</caption>
-  <tr>
-    <td>![my notes](/projects/undergraduate-thesis/sim-bb92.png)</td>
-    <td>![my notes](/projects/undergraduate-thesis/h-bb92.png)</td>
-  </tr>
-</table>
+<caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BB84 protocol</caption>
 
-<table align="center">
-  <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for Ekert91 protocol</caption>
-  <tr>
-    <td>![my notes](/projects/undergraduate-thesis/sim-bb92.png)</td>
-    <td>![my notes](/projects/undergraduate-thesis/h-e91.png)</td>
-  </tr>
-</table>
+![my notes](/projects/undergraduate-thesis/sim-bb92.png)
+![my notes](/projects/undergraduate-thesis/h-bb84.png)
+
+<caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BBM92 protocol</caption>
+
+![my notes](/projects/undergraduate-thesis/sim-bb92.png)
+![my notes](/projects/undergraduate-thesis/h-bb92.png)
+ 
+<caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for Ekert91 protocol</caption>
+
+![my notes](/projects/undergraduate-thesis/sim-bb92.png)
+![my notes](/projects/undergraduate-thesis/h-e91.png)
 
 Contributor:
 
