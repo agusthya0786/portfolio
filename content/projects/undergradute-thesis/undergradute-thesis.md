@@ -5,31 +5,22 @@ dateString: Jan 2021 - May 2021
 draft: false
 tags: ["Python", "PyTorch", "CNN", "LSTM", "CRNN", "DL", "AI"]
 showToc: false
-weight: 203
+weight: 201
 cover:
     image: "projects/undergradute-thesis/cover.jpg"
 ---
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  
-Advisors: [Prof. Keerti Kulkarni](https://scholar.google.co.in/citations?user=D0JbdtIAAAAJ&hl=en)
 
-# Project Details
+Advisors: [Prof. Keerti Kulkarni](https://scholar.google.co.in/citations?user=D0JbdtIAAAAJ&hl=en)
 
 ## Abstract
     
 The idea is to encode the sender's text`(secret message)` using the concept of interference. The secret message is encoded based on the cover file`(a text sentence in this case)`. The evaluation was done using three different communication protocols, namely *BB84*, *BBM92*, and *Ekert91*, to evaluate the performance of the system. I compared the relative results obtained using each protocol to obtain more precise and accurate results. Additionally, I utilized a real quantum simulator named `FakeWashingtonV2()` to simulate the behavior of a real quantum computer. This simulator was chosen because it is a widely used open-source quantum simulator that can accurately simulate the behavior of a real quantum computer. By using this simulator, I was able to test the system's performance under realistic conditions and compare it with the theoretical predictions obtained through simulations.
     
-
 ## General Implementation
     
 I have implemented Quantum Steganography using qiskit in this project. And, I have chosen the cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console.</br> 
 
-<img src="asset/flow.png" alt="no of Qubits" />
+![my notes](projects/undergradute-thesis/flow.png)
 
 </br>
 I have chosen our cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console.
@@ -42,39 +33,39 @@ Here are some steps to interactively play with our application:
 
 1. Choose the number of qubits using the slider. I would suggest that you choose 7 for the encoding and decoding scheme to work flawlessly. You can also test out other number of qubits to view the generated circuit. 
 
-<img src="projects/undergradute-thesis/qubit.png" alt="no of Qubits" />
+![my notes](/projects/undergradute-thesis/qubit.png)
 
 2. Enter the Secret message and press enter. For instance, let us try a letter, NOTE: Enter only small letters [i.e f,h,l, etc ]
 
-<img src="projects/undergradute-thesis/bnmit.png" alt="no of Qubits"  width="53%"/>
+![my notes](/projects/undergradute-thesis/bnmit.png)
 
    Here, you can also view the generated circuit below.
   
-<img src="projects/undergradute-thesis/circuit.png" alt="no of Qubits" />
+![my notes](projects/undergradute-thesis/circuit.png)
 
    Above is the transpilated circuit generated with respect to the secret key entered, using the special gates during Quantum Simulation  
 
 3. The below fig. shows the randomly generated key by Alice and Bob.
 
-<img src="projects/undergradute-thesis/key.png" alt="no of Qubits" width="55%"/>
+![my notes](/projects/undergradute-thesis/key.png)
 
 4. Upload a sentence where you wish to hide your message and press enter. NOTE: Enter only small words [i.e family,hindrance,lanquage, etc ]
 
-<img src="projects/undergradute-thesis/bangalore.png" alt="no of Qubits" />
+![my notes](projects/undergradute-thesis/bangalore.png)
  
 5. Click on encode to view the encoded message
 
-<img src="projects/undergradute-thesis/encrypt.png" alt="no of Qubits"  width="50%"/>
+![my notes](projects/undergradute-thesis/encrypt.png)
 
 6. Then click on decode to finally view your original secret message
 
-<img src="projects/undergradute-thesis/decrypt.png" alt="no of Qubits"  width="50%"/>
+![my notes](projects/undergradute-thesis/decrypt.png)
 
    All the simulation was done qiskit sdk: [Secret key used: **bnmit**]
 
 7. The Simulator result obtained after decoded.
 
-<img src="projects/undergradute-thesis/sim-bb92.png" alt="no of Qubits" width="60%"/>
+![my notes](projects/undergradute-thesis/sim-bb92.png)
 
    The above graph selected is the output generated from the Quantum Simulator `qasm_simulator`.
   
@@ -85,24 +76,24 @@ As it is seen in the graphs, the simulation done on `FakeWashingtonV2()` quantum
 <table align="center">
   <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BB84 prtotcol</caption>
   <tr>
-    <td><img src="projects/undergradute-thesis/sim-bb92.png" alt="On Simulator [qasm]" width="85%"></td>
-    <td><img src="projects/undergradute-thesis/h-bb84.png" alt="On real Quantum Computer [ibmq-bogota]" width="85%"></td>
+    <td>![my notes](projects/undergradute-thesis/sim-bb92.png)</td>
+    <td>![my notes](projects/undergradute-thesis/h-bb84.png)</td>
   </tr>
 </table>
 
 <table align="center">
   <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for BBM92 protocol</caption>
   <tr>
-    <td><img src="projects/undergradute-thesis/sim-bb92.png" alt="On Simulator [qasm]" width="85%"></td>
-    <td><img src="projects/undergradute-thesis/h-bb92.png" alt="On real Quantum Computer [ibmq-bogota]" width="85%"></td>
+    <td>![my notes](projects/undergradute-thesis/sim-bb92.png)</td>
+    <td>![my notes](projects/undergradute-thesis/h-bb92.png)</td>
   </tr>
 </table>
 
 <table align="center">
   <caption>Comparison results of `qasm_simulation` and `FakeWashingtonV2()` for Ekert91 protocol</caption>
   <tr>
-    <td><img src="projects/undergradute-thesis/sim-bb92.png" alt="On Simulator [qasm]" width="85%"></td>
-    <td><img src="projects/undergradute-thesis/h-e91.png" alt="On real Quantum Computer [ibmq-bogota]" width="85%"></td>
+    <td>![my notes]projects/undergradute-thesis/sim-bb92.png)</td>
+    <td>![my notes]projects/undergradute-thesis/h-e91.png)></td>
   </tr>
 </table>
 
