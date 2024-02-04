@@ -4,20 +4,6 @@ description: This research demonstrates the manner in which a shared text (cover
 dateString: Jan 2021 - May 2021
 draft: false
 tags: ["Python", "PyTorch", "CNN", "LSTM", "CRNN", "DL", "AI"]
-external_link: ""
-links:
-  - url: https://github.com/ShisheerKaushik24/Quantum_projects/tree/master/Quantum-Secure-Communication-via-Steganography
-    name: GitHub
-    icon_pack: fab
-    icon: github
-  - url: https://opensource.org/licenses/MIT
-    name: MIT License
-    icon_pack: fas
-    icon: copyright
-  - url: https://drive.google.com/file/d/1RHY_QOV1cPRRPEe5KYRz-5Mahdmc7Ia7/view?usp=sharing
-    name: Demo
-    icon_pack: fab
-    icon: youtube
 showToc: false
 weight: 203
 cover:
@@ -32,12 +18,14 @@ cover:
   
 Advisors: [Prof. Keerti Kulkarni](https://scholar.google.co.in/citations?user=D0JbdtIAAAAJ&hl=en)
 
-# Abstract
+# Project Details
+
+## Abstract
     
 The idea is to encode the sender's text`(secret message)` using the concept of interference. The secret message is encoded based on the cover file`(a text sentence in this case)`. The evaluation was done using three different communication protocols, namely *BB84*, *BBM92*, and *Ekert91*, to evaluate the performance of the system. I compared the relative results obtained using each protocol to obtain more precise and accurate results. Additionally, I utilized a real quantum simulator named `FakeWashingtonV2()` to simulate the behavior of a real quantum computer. This simulator was chosen because it is a widely used open-source quantum simulator that can accurately simulate the behavior of a real quantum computer. By using this simulator, I was able to test the system's performance under realistic conditions and compare it with the theoretical predictions obtained through simulations.
     
 
-# General Implementation
+## General Implementation
     
 I have implemented Quantum Steganography using qiskit in this project. And, I have chosen the cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console.</br> 
 
@@ -46,7 +34,7 @@ I have implemented Quantum Steganography using qiskit in this project. And, I ha
 </br>
 I have chosen our cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console.
   
-# Implementation Details
+## Implementation Details
     
 The encoder circuit is based on 7 qubits but our interactive application has an option to create circuits based on the number of qubits selected and view them instantaneously.  
 
@@ -90,7 +78,7 @@ Here are some steps to interactively play with our application:
 
    The above graph selected is the output generated from the Quantum Simulator `qasm_simulator`.
   
-# Future Scopes and Improvements
+## Future Scopes and Improvements
     
 As it is seen in the graphs, the simulation done on `FakeWashingtonV2()` quantum computer is comparatively different from the one done on simulation. It’s because Quantum computers are exceedingly difficult to engineer, build and program. As a result, they are crippled by errors in the form of noise, faults and loss of quantum coherence, which is crucial to their operation and yet falls apart before any nontrivial program has a chance to run to completion. 
 
