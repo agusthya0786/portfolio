@@ -1,10 +1,9 @@
 ---
 title: "Quantum Secure Communication via Steganography"
-description: This research demonstrates the manner in which a shared text (cover file) can be utilized to hide a secret message, using the encoding idea from BB84 protocol.The notion of utilizing the concept of quantum steganography for transmitting different type of text data over the network by contemplating it as secret message has been the highlight of this work. In addition, the works also describes the subsequent noises and overlapping of expected data due to multiple error factors when the same proposed protocol is tested on 3 distinctive backend devices.
+description: "This research demonstrates the manner in which a shared text (cover file) can be utilized to hide a secret message, using the encoding idea from BB84 protocol.The notion of utilizing the concept of quantum steganography for transmitting different type of text data over the network by contemplating it as secret message has been the highlight of this work. In addition, the works also describes the subsequent noises and overlapping of expected data due to multiple error factors when the same proposed protocol is tested on 3 distinctive backend devices."
 dateString: Jan 2021 - May 2021
 draft: false
 tags: ["Python", "PyTorch", "CNN", "LSTM", "CRNN", "DL", "AI"]
-showToc: false
 weight: 201
 cover:
     image: "projects/undergradute-thesis/cover.jpg"
