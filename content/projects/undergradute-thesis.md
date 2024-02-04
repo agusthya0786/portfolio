@@ -90,7 +90,6 @@ As it is seen in the graphs, the simulation done on `FakeWashingtonV2()` quantum
   </tr>
 </table>
 
-
 Contributor:
 
 - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
